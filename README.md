@@ -1,1 +1,1 @@
-Respomsive puppy lovers page with html and css
+Responsive puppy lovers page with html and css
